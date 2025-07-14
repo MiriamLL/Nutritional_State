@@ -1,5 +1,4 @@
-# Nutritional_State
-Data from plasma metabolites and body measurements of blue-footed boobies.
+# Data from plasma metabolites and body measurements of blue-footed boobies.
 
 **Published in:**
 
